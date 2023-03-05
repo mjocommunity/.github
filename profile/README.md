@@ -4,10 +4,10 @@ Hello! Welcome to The Mighty Jill Off Community official GitHub organization.
 ## Members
 <table>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/mjocommunity/.github/main/calilee.png" width="150px"></img></th>
-    <th><img src="https://raw.githubusercontent.com/mjocommunity/.github/main/satvrn.png" width="150px"></img></th>
-    <th><img src="https://raw.githubusercontent.com/mjocommunity/.github/main/dehydratedmoron.png" width="150px"></img></th>
-    <th><img src="https://raw.githubusercontent.com/mjocommunity/.github/main/joyboy.png" width="150px"></img></th>
+    <th><img src="https://avatars.githubusercontent.com/u/111258348" width="150px" /></th>
+    <th><img src="https://avatars.githubusercontent.com/u/29993417" width="150px" /></th>
+    <th><img src="https://avatars.githubusercontent.com/u/95655098" width="150px" /></th>
+    <th><img src="https://avatars.githubusercontent.com/u/126368464" width="150px" /></th>
   </tr>
   <tr>
     <td align="center">cali lee</td>
